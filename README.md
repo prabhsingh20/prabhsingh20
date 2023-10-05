@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/prabhs-projects,https://app.netlify.com/teams/prabh/overview](https://vercel.com/prabhs-projects,https://app.netlify.com/teams/prabh/overview)
+- 👨‍💻 All of my projects are available at [https://vercel.com/prabhs-projects](https://vercel.com/prabhs-projects)
 
 - 💬 Ask me about **html, css, javascript, react js**
 
