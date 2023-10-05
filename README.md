@@ -3,6 +3,10 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhsingh20&label=Profile%20views&color=0e75b6&style=flat" alt="prabhsingh20" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhsingh20" alt="prabhsingh20" /></a> </p>
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/prabhs-projects](https://vercel.com/prabhs-projects)
@@ -26,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhsingh20&show_icons=true&locale=en" alt="prabhsingh20" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhsingh20&" alt="prabhsingh20" /></p>
