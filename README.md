@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
  
-- 📄 Know about my experiences [linkedin.com/in/prabhsingh16](linkedin.com/in/prabhsingh16)
+- 📄 Know about my experiences [https://linkedin.com/in/prabhsingh16](https://linkedin.com/in/prabhsingh16)
   
 - 👨‍💻 All of my projects are available at [https://vercel.com/prabhs-projects](https://vercel.com/prabhs-projects)
   
