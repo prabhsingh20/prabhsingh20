@@ -19,7 +19,7 @@
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">### Frontend </p>
+<p align="center"># Frontend </p>
 <br/>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
