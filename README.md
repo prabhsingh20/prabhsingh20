@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React js, Tailwind**
  
 - 📄 Know about my experiences [https://linkedin.com/in/prabhsingh16](https://linkedin.com/in/prabhsingh16)
   
@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **singh20prabh@gmail.com**
  
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Node js, Next js**
   
 <br/>
 
