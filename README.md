@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <br/>
 
-<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlH8CAvQ3cuQ4V-UflsQESwbjw_15JbQn9Kw&s">
+
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React js, Tailwind**
  
