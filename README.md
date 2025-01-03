@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
 <h3 align="center">A passionate 🚀 Frontend Developer from India</h3>
 <br/>
-Welcome to my GitHub profile! I'm a creative and detail-oriented front-end developer with over a year of professional experience. I specialize in creating responsive, dynamic web applications with technologies like React.js, Next.js, and Tailwind CSS. My goal is to craft engaging user experiences and deliver projects that make a difference.
+✨Welcome to my GitHub profile! I'm a creative and detail-oriented front-end developer with over a year of professional experience. I specialize in creating responsive, dynamic web applications with technologies like React.js, Next.js, and Tailwind CSS. My goal is to craft engaging user experiences and deliver projects that make a difference.
 <br>
-<h4>🔍 About Me:</h4>
+<h4>💫 About Me:</h4>
 - 🌟 Innovative Thinker Bringing creativity and precision to every project.
 
  <br>💼 Professional Experience:<br>
