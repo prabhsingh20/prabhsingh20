@@ -20,7 +20,7 @@
 
   <!-- GIF Section -->
   <div style="flex: 1; text-align: center;">
-    <img src="path-to-your-gif.gif" alt="GIF" style="max-width: 150px; height: auto; border-radius: 10px;" />
+    <img src="./images//WhatsApp Video 2025-01-06 at 13.37.24.gif" alt="GIF" style="max-width: 150px; height: auto; border-radius: 10px;" />
   </div>
 </div>
 
