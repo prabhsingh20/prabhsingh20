@@ -4,8 +4,8 @@
 ✨Welcome to my GitHub profile! I'm a creative and detail-oriented front-end developer with over a year of professional experience. I specialize in creating responsive, dynamic web applications with technologies like React.js, Next.js, and Tailwind CSS. My goal is to craft engaging user experiences and deliver projects that make a difference.
 <br>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <!-- About Me Section -->
+<div style="display: flex; gap: 20px; margin-top: 20px;">
+  
   <div style="flex: 2;">
     <h4>💫 About Me:</h4>
     <p>
@@ -18,9 +18,8 @@
     </ul>
   </div>
 
-  <!-- GIF Section -->
   <div style="flex: 1; text-align: center;">
-    <img src="./images//WhatsApp Video 2025-01-06 at 13.37.24.gif" alt="GIF" style="max-width: 150px; height: auto; border-radius: 10px;" />
+    <img src="./images//WhatsApp Video 2025-01-06 at 13.37.24.gif" alt="GIF" style="max-width: 120px; height: auto; border-radius: 10px;" />
   </div>
 </div>
 
